@@ -1,0 +1,109 @@
+{
+  "navigation": {
+    "allCourses": "All Courses",
+    "programming": "Programming",
+    "database": "Database",
+    "design": "Design",
+    "frontend": "Frontend",
+    "backend": "Backend"
+  },
+  "buttons": {
+    "enroll": "Enroll Now",
+    "viewDetails": "View Details",
+    "search": "Search",
+    "logout": "Logout",
+    "settings": "Settings",
+    "viewProgress": "View Progress",
+    "continueLearning": "Continue Learning",
+    "close": "Close",
+    "takeTes": "Take Test",
+    "popQuiz": "Pop Quiz",
+    "submit": "Submit Answer",
+    "nextQuestion": "Next Question",
+    "retake": "Retake Test",
+    "runCode": "Run Code",
+    "copyCode": "Copy Code",
+    "openCompiler": "Open Compiler"
+  },
+  "headers": {
+    "welcome": "Welcome to EduLearn",
+    "discoverCourses": "Discover Amazing Courses",
+    "myLearning": "My Learning",
+    "accountSettings": "Account Settings",
+    "studyProgress": "Study Progress"
+  },
+  "labels": {
+    "level": "Level",
+    "duration": "Duration",
+    "lessons": "Lessons",
+    "rating": "Rating",
+    "enrolled": "Enrolled",
+    "progress": "Progress",
+    "searchCourses": "Search courses..."
+  },
+  "courses": {
+    "javaMasterclass": {
+      "title": "Java Programming Masterclass",
+      "description": "Master Java from basics to advanced concepts. Learn OOP, data structures, and build real applications."
+    },
+    "cppCourse": {
+      "title": "C/C++ Complete Course",
+      "description": "Learn C and C++ programming from scratch. Understand memory management, pointers, and system programming."
+    },
+    "databaseDesign": {
+      "title": "Database Design & SQL",
+      "description": "Master relational databases, SQL queries, normalization, and database optimization techniques."
+    },
+    "uxuiDesign": {
+      "title": "UX/UI Design Fundamentals",
+      "description": "Learn user experience and interface design principles. Master Figma and design thinking methodologies."
+    },
+    "reactDevelopment": {
+      "title": "Frontend Development with React",
+      "description": "Build modern web applications with React, hooks, state management, and component architecture."
+    },
+    "nodejsDevelopment": {
+      "title": "Backend Development with Node.js",
+      "description": "Learn server-side development with Node.js, Express, RESTful APIs, and authentication."
+    },
+    "pythonMachine": {
+      "title": "Python for Machine Learning",
+      "description": "Learn ML algorithms, data preprocessing, model training, and neural networks with Python libraries."
+    },
+    "webSecurity": {
+      "title": "Web Security Essentials",
+      "description": "Understand OWASP top 10, secure coding practices, encryption, authentication, and threat prevention."
+    }
+  },
+  "levels": {
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced"
+  },
+  "auth": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "rememberMe": "Remember Me",
+    "forgotPassword": "Forgot Password?",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?"
+  },
+  "test": {
+    "testTitle": "Course Test",
+    "quizTitle": "Pop Quiz",
+    "question": "Question",
+    "of": "of",
+    "yourScore": "Your Score",
+    "correct": "Correct",
+    "incorrect": "Incorrect",
+    "resultsPassed": "Congratulations! You Passed!",
+    "resultsFailed": "Keep Practicing!",
+    "correctAnswers": "Correct Answers",
+    "viewResults": "View Results",
+    "curriculum": "Curriculum",
+    "whatYouLearn": "What You'll Learn",
+    "requirements": "Requirements"
+  }
+}
