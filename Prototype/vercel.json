@@ -1,0 +1,7 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "env": {
+    "VITE_JUDGE0_API_KEY": "@judge0_api_key"
+  }
+}
